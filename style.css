@@ -1,5 +1,7 @@
 body {
     background-color: lightgreen;
+    background-image: url(IMG_20230328_165528_249);
+    background-size: cover;
 }
 
 h1 {
